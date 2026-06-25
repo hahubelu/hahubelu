@@ -3,14 +3,16 @@
 
 ---
 
-<a href="https://play.google.com/store/apps/details?id=com.blu.fidel" style="display:flex; align-items:center; gap:12px; text-decoration:none;">
+<a href="https://play.google.com/store/apps/details?id=com.blu.fidel">
   <img src="GOOGLE_PLAY_FINAL.png" alt="Google Play" style="width:220px;">
-  <span># አንድሮይድ(Android): ማስፈንጠሪያ</span>
 </a>
 
-<br>
+# [አንድሮይድ(Android): ማስፈንጠሪያ](https://play.google.com/store/apps/details?id=com.blu.fidel)
 
-<a href="https://apps.apple.com/us/app/hahu-speak/id6774989891" style="display:flex; align-items:center; gap:10px; text-decoration:none;">
+---
+
+<a href="https://apps.apple.com/us/app/hahu-speak/id6774989891">
   <img src="APP_STORE_FINAL.png" alt="App Store" style="height:60px;">
-  <span># አይኦኤስ(iOS): ማስፈንጠሪያ</span>
 </a>
+
+# [አይኦኤስ(iOS): ማስፈንጠሪያ](https://apps.apple.com/us/app/hahu-speak/id6774989891)
