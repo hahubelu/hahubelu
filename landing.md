@@ -1,3 +1,11 @@
+<script>
+  var ua = navigator.userAgent || "";
+  if (/android/i.test(ua)) {
+    location.replace("https://play.google.com/store/apps/details?id=com.blu.fidel");
+  } else if (/iphone|ipad|ipod/i.test(ua)) {
+    location.replace("https://apps.apple.com/us/app/hahu-speak/id6774989891");
+  }
+</script>
 # ሀሁ በሉ! (HaHu: Speak!)
 **“ሀሁ በሉ”** እያንዳንዱን የግዕዝ/የአማርኛ ፊደል እንዴት እንደሚነበብና እንደሚባል ያስተምርዎታል። (HaHu: Speak! teaches you how to read and pronounce every character in the Amharic alphabet.)
 
